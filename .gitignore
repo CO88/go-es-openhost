@@ -1,0 +1,17 @@
+# env
+.env
+
+# vendor
+vendor
+
+# tmp
+tmp
+
+# config
+config.toml
+
+# etc
+.DS_store
+
+# vscode
+.vscode
